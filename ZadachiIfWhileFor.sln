@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZadachiIfWhileFor", "ZadachiIfWhileFor.pyproj", "{972D9B0B-DEF2-4D47-9395-6C46E5E9E789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972D9B0B-DEF2-4D47-9395-6C46E5E9E789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972D9B0B-DEF2-4D47-9395-6C46E5E9E789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EEE6719-1458-4335-923F-22D8BA2A075E}
+	EndGlobalSection
+EndGlobal
