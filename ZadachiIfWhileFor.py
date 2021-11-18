@@ -1,11 +1,44 @@
-from random import *
-from keyboard import *
 
+t=int(input("Вы желаете вычислить площадь трапеции? 1 - Да, 2 - Нет : "))
+
+
+
+
+
+
+
+
+
+
+
+
+import random
+n=random.randint(1,10)
 while True:
-    
-    print("Hello!")
-    if is_pressed("esc"): break
-    
+    text = input("Введи число или стоп для выхода: ")
+    if text == "стоп":
+        print("Очень жаль! Загадано было", n)
+        break 
+    elif text == n:
+        print("Ты отгадал!")
+    else:
+        print("Попробуйте еще")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
